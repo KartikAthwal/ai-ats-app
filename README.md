@@ -25,7 +25,11 @@ This project is an AI-powered Applicant Tracking System (ATS) that analyzes resu
 
 ```bash
 git clone https://github.com/KartikAthwal/ai-ats-app.git
-cd ai-ats-app
+cd ai-ats-app```
 
 ## Install Deoendencies
-```bash pip install -r requirements.txt
+```pip install -r requirements.txt```
+## Run the app:
+```streamlit run app.py
+
+
