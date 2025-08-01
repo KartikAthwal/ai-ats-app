@@ -28,8 +28,8 @@ git clone https://github.com/KartikAthwal/ai-ats-app.git
 cd ai-ats-app```
 
 ## Install Deoendencies
-```pip install -r requirements.txt```
+pip install -r requirements.txt
 ## Run the app:
-```streamlit run app.py
+streamlit run app.py
 
 
